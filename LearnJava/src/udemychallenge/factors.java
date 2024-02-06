@@ -8,7 +8,7 @@ public class factors {
 		gcd(12, 32);
 		
 		int number=123;
-		for
+	
 		switch(number) {
 		case 1:
 			System.out.println("one");

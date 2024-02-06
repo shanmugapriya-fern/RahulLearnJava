@@ -5,7 +5,7 @@ package udemychallenge;
 	
 	static  String name="princy";
 	public static void getnum( String name1) {
-		Staticvariable.name=name1;
+		name=name1;
 		System.out.println(name);
 	}
 	
